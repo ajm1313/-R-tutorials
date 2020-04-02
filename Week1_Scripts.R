@@ -1,1 +1,5 @@
-plot(c(1,2,3,4,5,6),c(3,4,5,6,7,8))
+#Create variable called wages
+wages <- c(100, 120, 150, 200, 250, 280)
+
+#Create a barplot of wages
+barplot(wages)
